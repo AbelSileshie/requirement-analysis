@@ -40,7 +40,7 @@ Here are three reasons why requirement analysis is a cornerstone of software pro
 
 ## 🔍 Major Components of Requirement Analysis
 
-The process is composed of several interlinked activities:
+Key Activities in Requirement Analysis
 
 - **Requirements Collection**
 
