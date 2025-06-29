@@ -20,7 +20,7 @@ A well-executed requirement analysis helps:
 
 ---
 
-## ❓ Why is Requirement Analysis Critical?
+## ❓ Why is Requirement Analysis Important?
 
 Here are three reasons why requirement analysis is a cornerstone of software projects:
 
