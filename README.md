@@ -8,6 +8,8 @@ This repository presents a comprehensive walkthrough of the **Requirement Analys
 
 ## 🧠 Understanding Requirement Analysis
 
+## Types of Requirements
+
 **Requirement Analysis** refers to the process of collecting, interpreting, and documenting the expectations and specifications of users and stakeholders for a software product. As a vital step in the Software Development Life Cycle (SDLC), it ensures alignment between business goals and technical implementation.
 
 A well-executed requirement analysis helps:
